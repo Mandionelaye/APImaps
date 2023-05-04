@@ -1,0 +1,16 @@
+.map{
+    margin: 0;
+    padding: 0;
+
+}
+.map-h2{
+    margin: 5;
+    padding: auto;
+}
+
+.google-map{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }

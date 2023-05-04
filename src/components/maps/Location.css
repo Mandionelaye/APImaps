@@ -1,0 +1,16 @@
+.pin{
+    width: 50%;
+    position: relative;
+    left: auto;
+    right: auto;
+  }
+  
+  .pin-icon{
+    font-size: 40px;
+    color: red;
+  }
+  .pin-text{
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+  }
